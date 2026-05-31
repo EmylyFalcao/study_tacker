@@ -85,7 +85,3 @@ study-tracker/
 ├── .dockerignore
 └── README.md
 ```
-
-## License
-
-MIT - do whatever you want with it.
