@@ -12,8 +12,8 @@ Track your courses from Coursera, Udemy, edX, YouTube, and more. Set weekly hour
 - **Track progress** by percentage and by modules completed (e.g. 3 / 12)
 - **Set weekly hour goals** and log how much you study each week
 - **Deadlines** with visual warnings when due soon or overdue
-- **Notes per course** — inline, editable, always there
-- **Export / Import** your data as JSON — back it up or move it between devices
+- **Notes per course** - inline, editable, always there
+- **Export / Import** your data as JSON - back it up or move it between devices
 - **Dark mode** supported automatically via your OS preference
 - **Persists across sessions** using browser localStorage
 
@@ -88,4 +88,4 @@ study-tracker/
 
 ## License
 
-MIT — do whatever you want with it.
+MIT - do whatever you want with it.
