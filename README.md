@@ -1,8 +1,8 @@
 # 📚 Study Tracker
 
-A personal study tracker that runs entirely in your browser — no server, no install, no account needed.
+A personal study tracker that runs entirely in your browser, no server, no install, no account needed.
 
-Track your courses from Coursera, Udemy, edX, YouTube, and more. Set weekly hour goals, log progress, and keep notes — all saved locally to your browser.
+Track your courses from Coursera, Udemy, edX, YouTube, and more. Set weekly hour goals, log progress, and keep notes. All saved locally to your browser.
 
 ![Study Tracker Screenshot](Screenshot.png)
 
